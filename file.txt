@@ -6,3 +6,5 @@ feature one changes
 
 finished
 
+still pending in vsc
+
